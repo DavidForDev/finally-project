@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (registration.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Authorization.cpp
+C:\Users\David\source\repos\registration\registration\Authorization.h(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\David\source\repos\registration\registration\Authorization.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\David\source\repos\registration\registration\Dashboard.h(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\David\source\repos\registration\registration\Users.h(1,13): warning C4081: expected 'newline'; found ';'
+C:\Users\David\source\repos\registration\registration\Authorization.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\David\source\repos\registration\registration\Authorization.cpp(5,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Authorization.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  registration.vcxproj -> C:\Users\David\source\repos\registration\x64\Debug\oncechat.exe
