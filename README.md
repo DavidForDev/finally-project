@@ -1,13 +1,13 @@
 სანამ დასტარტავ ფაილს მანამდე ბაზის კონფიგურაცია დაგჭირდება:
 
-database სახელი: chatonce
+**database** სახელი: chatonce
 
-tables:
+**tables**:
   1) users
   2) phoneBook
 
-**sql schemas:
-  1) for user Table:
+**sql schemas**:
+  1) for user **Table**:
      
 CREATE TABLE users (
     id  INT  IDENTITY (1, 1) primary key,
@@ -18,7 +18,7 @@ CREATE TABLE users (
     password VARCHAR (255),
   );
   
-  2) for phoneBook Table:
+  2) for phoneBook **Table**:
 
 CREATE TABLE phoneBook (
      id          INT  IDENTITY (1, 1) primary key,
