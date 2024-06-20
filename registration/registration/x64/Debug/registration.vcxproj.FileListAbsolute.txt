@@ -1,5 +1,0 @@
-C:\Users\David\source\repos\registration\registration\x64\Debug\registration.vcxproj.AssemblyReference.cache
-C:\Users\David\source\repos\registration\registration\x64\Debug\registration.vcxproj.GenerateResource.cache
-C:\Users\David\source\repos\registration\registration\x64\Debug\registration.Authorization.resources
-C:\Users\David\source\repos\registration\registration\x64\Debug\registration.Registration.resources
-C:\Users\David\source\repos\registration\registration\x64\Debug\registration.Dashboard.resources
